@@ -2,4 +2,4 @@
 it is for collage
 
 
-print("Hello world");
+print("Hello world")
