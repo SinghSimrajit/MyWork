@@ -2,13 +2,9 @@
 it is for collage
 
 
-print("Hello world")
 
 
-from ast import If
-import string
-
-#its my first code and i am practicing on vs code with macbook
+#its my first code and i am practising on vs code with macbook
 
 
 print("hello world")
