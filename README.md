@@ -1,35 +1,6 @@
-# First week task Variables, comments, data types, if-elif statements, user input and arithmetic input, logical operators.
-it is for collage
+# this is my first week task
 
-
-
-
-#its my first code and i am practising on vs code with macbook
-
-
-print("hello world")
-
-num1 = 0
-num2 = 0
-result = 0
-
-num1 = int(input("input any number   "))
-
-opr = input("type any operator for + = plus, - = minus, * = multiply, / = divide   ")
-
-num2 = int(input("input any number   "))
-
-if( opr == ('+')):
-    result = num1+num2
-elif(opr == ('-')):
-    result = num1-num2
-elif( opr == ('*')):
-    result = num1*num2
-elif(opr == ('/')):
-    result = num1/num2
-
-print (result)    
-    
+# you can see my code in first task folder
 
 
 
