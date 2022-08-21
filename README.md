@@ -1,4 +1,4 @@
-# MyWork
+# First week task Variables, comments, data types and if-elif statements. 
 it is for collage
 
 
