@@ -1,4 +1,4 @@
-# First week task Variables, comments, data types and if-elif statements. 
+# First week task Variables, comments, data types, if-elif statements, user input and arithmetic input, logical operators.
 it is for collage
 
 
